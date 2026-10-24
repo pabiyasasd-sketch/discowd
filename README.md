@@ -1,2 +1,2 @@
 # discowd
-a bot
+Discowd is a bot, thats all.
